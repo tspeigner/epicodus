@@ -1,0 +1,15 @@
+How does the process of making a Git commit differ when working in pairs, versus when working independently?
+# A --- each user will have to commit separately, they will commit their changes to different branches, 
+# likely named after the initials
+
+What is the significance of the word 'master' in the command $ git push al master?
+# A --- master is the branch name. so the branch that we are working on is called master.
+
+What is the difference between the local .git repository, and the repository created on Github?
+# A --- the local repo is a local copy, allowing users to edit and test the code locally. 
+# the remote repo allows users to check in any new changes, but then be able to clone that 
+# repo to another machine.
+
+How are the local .git repository, and the repository created on Github 'connected'?
+# A --- to create a local repo use the `git init`, to create a remote repo I use the 
+# web UI
