@@ -13,3 +13,18 @@ What is the difference between the local .git repository, and the repository cre
 How are the local .git repository, and the repository created on Github 'connected'?
 # A --- to create a local repo use the `git init`, to create a remote repo I use the 
 # web UI
+
+Night 2
+?? What does the abbreviation HTML stand for?
+ A --- Hyper Text Markup Language
+?? Why does indentation and spacing matter?
+ A --- Indentation is for readability. By indenting your code it stays within a 'block', which helps separate that block from others, thus making your code more easily read.
+?? How do you know if a tag is an opening or closing tag?
+ A --- A closing tab has a '/' before the text.
+?? What is the difference between block elements and inline elements?
+ A --- A block element is used to denote an entire clock of code.
+       An inline element can be wrapped around text within a code block.
+?? What are 2 examples of inline elements?
+ A --- 1. <b>= bold</b> 2. <img src = "image.jpg" alt = "Alt text for audio accessibilty"> 
+?? Why is an alt attribute on an image necessary?
+ A --- This can help people who are bling of visually impaired to have the text read to them.
