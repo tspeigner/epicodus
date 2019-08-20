@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+body {
+    color: teal;
+}
+h3 {
+    font-style: italic;
+    text-align: center;
+    color: green;
+}
+p {
+    font-family: cursive;
+}
+ul {
+    font-size: 20px;
+    line-height: 30px;
+    color: purple;
+}

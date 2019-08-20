@@ -1,0 +1,41 @@
+p {
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+p.intro {
+    width: 60%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: chocolate;
+}
+p.outro {
+    width: 60%;
+    color: aquamarine;
+    background-color: black;
+}
+p.visual {
+    font: message-box;
+    color-adjust: 70%;
+}
+.important {
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    background-color: black;
+    width: 50%;
+}
+.basic {
+    font: 100;
+    align-self: center;
+    color: black;
+       
+}
+a {
+    color: hotpink;
+}
+a:link {
+    color: cadetblue;
+}

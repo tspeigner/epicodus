@@ -28,3 +28,25 @@ Night 2
  A --- 1. <b>= bold</b> 2. <img src = "image.jpg" alt = "Alt text for audio accessibilty"> 
 ?? Why is an alt attribute on an image necessary?
  A --- This can help people who are bling of visually impaired to have the text read to them.
+
+Night 3
+
+    How do we select a specific element of our webpage to style with CSS?
+    -- use its tag name. example h1 tag can be styled in the CSS sheet.
+    Name four CSS properties.
+    -- color, alignment, justification, size
+    Where should a CSS stylesheet reside?
+    -- in a css directory in that is accessible to the web pages
+    How do we apply the styles created in our .css stylesheet to our .html web page?
+    -- you add a link to the css file within your web page, creating a reference to the file
+
+
+    How is a class added to an HTML element?
+    -- add class="class_name" to any tag
+    What does the 'a' in <a> represent?
+    -- a link
+    What is the difference between a URL link and an email link?
+    -- email requires mailto:
+
+    
+
